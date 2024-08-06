@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "@mekari/pixel3": "^0.3.0",
+    "@mekari/pixel3-postcss": "^0.3.0",
+    "@nuxt/content": "^2.13.1",
+    "@nuxt/image": "^1.7.0",
+    "@nuxthq/studio": "^2.0.3",
+    "nuxt": "^3.12.4",
+    "postcss-prefix-selector": "^1.16.1"
+  }
+}

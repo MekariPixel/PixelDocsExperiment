@@ -1,0 +1,14 @@
+.vp-doc.container {
+
+}
+
+.vp-doc h2 a,
+.vp-doc h3 a {
+  color: inherit !important;
+  text-decoration: inherit !important;
+  font-weight: 600;
+}
+
+.vp-doc img {
+  width: 100%;
+}

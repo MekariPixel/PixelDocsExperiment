@@ -1,0 +1,28 @@
+@layer pixel_reset, pixel_base, pixel_tokens, pixel_recipes, pixel_utilities;
+
+@font-face {
+  font-family: 'inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('https://cdn.mekari.design/fonts/Inter/Inter-Regular.woff2') format('woff2'),
+    url('https://cdn.mekari.design/fonts/Inter/Inter-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('https://cdn.mekari.design/fonts/Inter/Inter-SemiBold.woff2') format('woff2'),
+    url('https://cdn.mekari.design/fonts/Inter/Inter-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'inter';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url('https://cdn.mekari.design/fonts/Inter/Inter-SemiBoldItalic.woff2') format('woff2'),
+    url('https://cdn.mekari.design/fonts/Inter/Inter-SemiBoldItalic.ttf') format('truetype');
+}
